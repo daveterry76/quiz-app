@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+
+    <link rel="stylesheet" href="css/output.css" />
+  </head>
+  <body class="p-0 h-full">
+    <div
+      class="flex flex-col justify-start items-center bg-gradient-to-br from-blue-600 via-blue-500 to-blue-400 h-screen w-screen p-12"
+    >
+      <h1 class="text-xl md:text-2xl text-white mb-8 font-semibold text-center">
+        QUI⚡ FOR SOFTWARE ENGINEERS
+      </h1>
+
+      <!-- First Card -->
+      <div
+        class="first-card bg-white h-fit w-96 p-8 flex flex-col justify-center rounded-lg"
+      >
+        <h3 class="mb-6 text-xl font-bold w-3/4">
+          Question 1: What is the name of the best programming language in the
+          world ?
+        </h3>
+
+        <!-- Options -->
+        <div>
+          <form action="">
+            <div class="mb-4 flex">
+              <input
+                type="radio"
+                class="h-6 w-6 mr-2 clicked"
+                name="best_language"
+                value="Ruby"
+                id="ruby"
+              />
+              <label for="ruby">Ruby</label><br />
+            </div>
+            <div class="mb-4 flex">
+              <input
+                type="radio"
+                class="h-6 w-6 mr-2"
+                name="best_language"
+                value="JavaScript"
+                id="javascript"
+              />
+              <label for="javascript">JavaScript</label><br />
+            </div>
+            <div class="mb-4 flex">
+              <input
+                type="radio"
+                class="h-6 w-6 mr-2"
+                name="best_language"
+                value="Flutter"
+                id="flutter"
+              />
+              <label for="flutter">Flutter</label>
+            </div>
+          </form>
+        </div>
+
+        <!-- Next button -->
+        <div class="flex justify-end">
+          <button class="flex" id="first-next-btn">
+            <p>Next</p>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-5 w-5 text-blue-500 ml-2 mt-1"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Second Card -->
+      <div
+        class="second-card hidden bg-white h-fit w-96 p-8 flex-col justify-center rounded-lg"
+      >
+        <h3 class="mb-6 text-xl font-bold w-3/4">
+          Question 2: In what year was ReactJS first used ?
+        </h3>
+
+        <!-- Options -->
+        <div>
+          <form action="">
+            <div class="mb-4 flex">
+              <input
+                type="radio"
+                class="h-6 w-6 mr-2"
+                name="year"
+                value="year-one"
+                id="year-one"
+              />
+              <label for="year-one">2012</label><br />
+            </div>
+            <div class="mb-4 flex">
+              <input
+                type="radio"
+                class="h-6 w-6 mr-2"
+                name="year"
+                value="year-two"
+                id="year-two"
+              />
+              <label for="year-two">2013</label><br />
+            </div>
+            <div class="mb-4 flex">
+              <input
+                type="radio"
+                class="h-6 w-6 mr-2"
+                name="year"
+                value="year-three"
+                id="year-three"
+              />
+              <label for="year-three">2011</label>
+            </div>
+          </form>
+        </div>
+
+        <!-- Next button -->
+        <div class="flex justify-end">
+          <button class="flex" id="second-next-btn">
+            <p>Next</p>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-5 w-5 text-blue-500 ml-2 mt-1"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Third Card -->
+      <div
+        class="third-card hidden bg-white h-fit w-96 p-8 flex-col justify-center rounded-lg"
+      >
+        <h3 class="mb-6 text-xl font-bold w-3/4">
+          Question 3: Which of the following is the best for development ?
+        </h3>
+
+        <!-- Options -->
+        <div>
+          <form action="">
+            <div class="mb-4 flex">
+              <input
+                type="radio"
+                class="h-6 w-6 mr-2"
+                name="best_system"
+                value="PC"
+                id="pc"
+              />
+              <label for="PC">PC</label><br />
+            </div>
+            <div class="mb-4 flex">
+              <input
+                type="radio"
+                class="h-6 w-6 mr-2"
+                name="best_system"
+                value="Phone"
+                id="phone"
+              />
+              <label for="Phone">Phone</label><br />
+            </div>
+            <div class="mb-4 flex">
+              <input
+                type="radio"
+                class="h-6 w-6 mr-2"
+                name="best_system"
+                value="Mac"
+                id="mac"
+              />
+              <label for="mac">Mac</label>
+            </div>
+          </form>
+        </div>
+
+        <!-- Finish button -->
+        <div class="flex justify-end">
+          <button class="flex" id="finish-btn">
+            <p>Finish</p>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-5 w-5 text-blue-500 ml-2 mt-1"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Finished Cards -->
+      <!-- Zero Card -->
+      <div
+        class="zero-card hidden bg-white h-80 w-96 p-8 flex-col justify-center text-center rounded-lg text-2xl"
+      >
+        <h3 class="mb-5">
+          You've answered <span class="zero-score font-bold">0</span
+          ><span class="font-bold">/3</span> questions correctly.
+        </h3>
+        <span class="text-4xl mb-5">&#128553;</span>
+        <p class="my-5">You can do BETTER !</p>
+        <a href="" class="retry-btn text-blue-500 underline">Give it a retry</a>
+      </div>
+
+      <!-- One Card -->
+      <div
+        class="one-card hidden bg-white h-80 w-96 p-8 flex-col justify-center text-center rounded-lg text-2xl"
+      >
+        <h3 class="mb-5">
+          You've answered <span class="one-score font-bold">0</span
+          ><span class="font-bold">/3</span> questions correctly.
+        </h3>
+        <span class="text-4xl mb-5">&#128556;</span>
+        <p class="my-5">You can do BETTER !</p>
+        <a href="" class="retry-btn text-blue-500 underline">Give it a retry</a>
+      </div>
+
+      <!-- Two Card -->
+      <div
+        class="two-card hidden bg-white h-80 w-96 p-8 flex-col justify-center text-center rounded-lg text-2xl"
+      >
+        <h3 class="mb-5">
+          You've answered <span class="two-score font-bold">0</span
+          ><span class="font-bold">/3</span> questions correctly.
+        </h3>
+        <span class="text-4xl mb-5">&#128077;</span>
+        <p class="my-5">Good job !</p>
+        <a href="" class="retry-btn text-blue-500 underline">Give it a retry</a>
+      </div>
+
+      <!-- Three Card -->
+      <div
+        class="three-card hidden bg-white h-80 w-96 p-8 flex-col justify-center text-center rounded-lg text-2xl"
+      >
+        <h3 class="mb-5">
+          You've answered <span class="three-score font-bold">0</span
+          ><span class="font-bold">/3</span> questions correctly.
+        </h3>
+        <span class="text-4xl mb-5">&#128175;</span>
+        <p class="my-5">Well-done !</p>
+        <a href="" class="retry-btn text-blue-500 underline">Give it a retry</a>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
