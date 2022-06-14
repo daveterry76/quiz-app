@@ -7,7 +7,7 @@
 - <a href='https://github.com/daveterry76/quiz-app#introduction'>Introduction</a>
 - <a href='https://github.com/daveterry76/quiz-app#demo'>Demo</a>
 - <a href='https://github.com/daveterry76/quiz-app#technologies'>Technologies</a>
-- <a href='https://github.com/daveterry76/quiz-app#setting up development environment'>Setting up development environment</a>
+- <a href='https://github.com/daveterry76/quiz-app#setting-up-development-environment'>Setting up development environment</a>
 - <a href='https://github.com/daveterry76/quiz-app#contribution'>Contrubution</a>
 - <a href='https://github.com/daveterry76/quiz-app#license'>License</a>
 
