@@ -35,6 +35,13 @@ This application was developed using the following technoligies
 - Then you can go ahead to clone the repository to your computer.
   ```
   $ git clone https://github.com/daveterry76/quiz-app.git
-  
+  ```
+- Run the following code on your command line or terminal to install all the dependencies
+  ```
+  $ npm install
+  ```
+- Once the dependencies are installed, run the following code to start the application on localhost
+  ```
+  $ npm start
   ```
   
