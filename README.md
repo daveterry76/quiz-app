@@ -37,10 +37,10 @@ A miniature quiz app aimed at testing the knowledge of software engineers.
 ## Technologies
 This application was developed using the following technologies.
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
-- TailwindCSS (A CSS framework)
+- TailwindCSS v.3.1.0 (A CSS framework)
 
 ## Setting up the development environment
 
