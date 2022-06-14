@@ -20,7 +20,7 @@ A miniature quiz app aimed at testing the knowledge of software engineers.
  Here is a live working demo of the app: https://daveterry76.github.io/quiz-app/
  
 ## Technologies
-This application was developed using the following technoligies
+This application was developed using the following technologies
 
 - HTML
 - CSS
@@ -36,12 +36,28 @@ This application was developed using the following technoligies
   ```
   $ git clone https://github.com/daveterry76/quiz-app.git
   ```
-- Run the following code on your command line or terminal to install all the dependencies
+- Run the following code on your command line or terminal to install all the dependencies.
   ```
   $ npm install
   ```
-- Once the dependencies are installed, run the following code to start the application on localhost
+- Once the dependencies are installed, run the following code to start the application on localhost.
   ```
   $ npm start
   ```
+  
+## Contribution
+This is an open-source project so I am welcome to contributions. If you wish to contribute by adding a new feature or fixing a bug, you can take the following steps.
+
+1. Fork the repository.
+2. To create a new branch, run the following code in your terminal
+   ` git checkout -b improve-feature ` or ` git checkout -b fix-bug `
+3. Make the needed changes to the files.
+4. Run ` git add .`
+5. Commit your changes by using ` git commit -m 'improve feature'`
+6. Create a pull request on the Github dashboard.
+
+
+## License
+
+
   
