@@ -54,10 +54,11 @@ This is an open-source project so I am welcome to contributions. If you wish to 
 3. Make the needed changes to the files.
 4. Run ` git add .`
 5. Commit your changes by using ` git commit -m 'improve feature'`
-6. Create a pull request on the Github dashboard.
+6. Create a pull request from your Github dashboard.
 
 
 ## License
+
 
 
   
