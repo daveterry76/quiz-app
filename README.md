@@ -16,4 +16,6 @@ https://daveterry76.github.io/quiz-app/
 
 
 ## Introduction
+
+## Setting up development environment
 a miniature quiz app made using tailwindcss and javascript
