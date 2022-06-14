@@ -19,6 +19,8 @@ A miniature quiz app aimed at testing the knowledge of software engineers.
 ## Demo
  Here is a live working demo of the app: https://daveterry76.github.io/quiz-app/
  
+ <img src='https://www.linkpicture.com/q/quiz-sm-screen.png'>
+ 
 ## Technologies
 This application was developed using the following technologies
 
