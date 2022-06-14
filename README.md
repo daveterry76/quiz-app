@@ -17,10 +17,18 @@ https://daveterry76.github.io/quiz-app/
 
 ## Introduction
 
-A miniature quiz app aimed at testing the knowledge of software engineers
+A miniature quiz app aimed at testing the knowledge of software engineers.
 
 ## Demo
  Here is a live working demo of the app: https://daveterry76.github.io/quiz-app/
+ 
+## Technologies
+This application was developed using the following technoligies
+
+- HTML
+- CSS
+- JavaScript
+- TailwindCSS (A CSS framework)
 
 ## Setting up development environment
 a miniature quiz app made using tailwindcss and javascript
