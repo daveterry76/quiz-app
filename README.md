@@ -32,5 +32,9 @@ This application was developed using the following technoligies
 - In order to work on this app and make changes to it, ensure you have `git` and `npm` installed locally. If you do not, check the links below to know how to do so. 
   - [Git](https://git-scm.com/)
   - [Npm](https://www.npmjs.com/)
-- Then you can go ahead to clone the repository to your computer
+- Then you can go ahead to clone the repository to your computer.
+  ```
+  $ git clone https://github.com/daveterry76/quiz-app.git
+  
+  ```
   
