@@ -24,7 +24,11 @@ A miniature quiz app aimed at testing the knowledge of software engineers.
  
  ### View on small screens
  <img src='https://www.linkpicture.com/q/quiz-sm-screen.png'>
- <img src='https://www.linkpicture.com/q/quiz-0.png'>
+ 
+ | When a user gets no one correctly | When a user gets one correctly |
+ | --------------------------------- | ------------------------------ |
+ | <img src='https://www.linkpicture.com/q/quiz-0.png'> | <img src='https://www.linkpicture.com/q/quiz-1.png'> |
+ 
  <img src='https://www.linkpicture.com/q/quiz-1.png'>
  <img src='https://www.linkpicture.com/q/quiz-2.png'>
  <img src='https://www.linkpicture.com/q/quiz-3.png'>
