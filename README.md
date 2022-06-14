@@ -40,7 +40,7 @@ This application was developed using the following technologies.
 - HTML5
 - CSS3
 - JavaScript
-- TailwindCSS v.3.1.0 (A CSS framework)
+- TailwindCSS v.3.1 (A CSS framework)
 
 ## Setting up the development environment
 
