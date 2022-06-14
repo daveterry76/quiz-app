@@ -58,7 +58,7 @@ This is an open-source project so I am welcome to contributions. If you wish to 
 
 
 ## License
-
+[MIT](https://github.com/daveterry76/quiz-app/blob/main/LICENSE) license.
 
 
   
