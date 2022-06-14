@@ -31,7 +31,7 @@ A miniature quiz app aimed at testing the knowledge of software engineers.
  
  | When a user gets two questions correctly | When a user gets all three questions correctly |
  | --------------------------------- | ------------------------------ |
- | <img src='https://www.linkpicture.com/q/quiz-2.png'> | <img src='https://www.linkpicture.com/q/quiz-3.png'> |
+ | <img src='https://www.linkpicture.com/q/quiz-2.png'> | <img src='https://www.linkpicture.com/q/quiz-3_1.png'> |
  
  
 ## Technologies
