@@ -35,7 +35,7 @@ A miniature quiz app aimed at testing the knowledge of software engineers.
  
  
 ## Technologies
-This application was developed using the following technologies
+This application was developed using the following technologies.
 
 - HTML
 - CSS
