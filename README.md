@@ -12,9 +12,6 @@
 - <a href='https://github.com/daveterry76/quiz-app#license'>License</a>
 
 
-https://daveterry76.github.io/quiz-app/
-
-
 ## Introduction
 
 A miniature quiz app aimed at testing the knowledge of software engineers.
@@ -31,4 +28,9 @@ This application was developed using the following technoligies
 - TailwindCSS (A CSS framework)
 
 ## Setting up development environment
-a miniature quiz app made using tailwindcss and javascript
+
+- In order to work on this app and make changes to it, ensure you have `git` and `npm` installed locally. If you do not, check the links below to know how to do so. 
+  - [Git](https://git-scm.com/)
+  - [Npm](https://www.npmjs.com/)
+- Then you can go ahead to clone the repository to your computer
+  
