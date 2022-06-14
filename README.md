@@ -7,7 +7,7 @@
 - <a href='https://github.com/daveterry76/quiz-app#introduction'>Introduction</a>
 - <a href='https://github.com/daveterry76/quiz-app#demo'>Demo</a>
 - <a href='https://github.com/daveterry76/quiz-app#technologies'>Technologies</a>
-- <a href='https://github.com/daveterry76/quiz-app#setting-up-development-environment'>Setting up development environment</a>
+- <a href='https://github.com/daveterry76/quiz-app#setting-up-the-development-environment'>Setting up the development environment</a>
 - <a href='https://github.com/daveterry76/quiz-app#contribution'>Contrubution</a>
 - <a href='https://github.com/daveterry76/quiz-app#license'>License</a>
 
@@ -27,7 +27,7 @@ This application was developed using the following technologies
 - JavaScript
 - TailwindCSS (A CSS framework)
 
-## Setting up development environment
+## Setting up the development environment
 
 - In order to work on this app and make changes to it, ensure you have `git` and `npm` installed locally. If you do not, check the links below to know how to do so. 
   - [Git](https://git-scm.com/)
