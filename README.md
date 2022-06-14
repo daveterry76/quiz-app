@@ -25,13 +25,14 @@ A miniature quiz app aimed at testing the knowledge of software engineers.
  ### View on small screens
  <img src='https://www.linkpicture.com/q/quiz-sm-screen.png'>
  
- | When a user gets no one correctly | When a user gets one correctly |
+ | When a user gets no question correctly | When a user gets only one question correctly |
  | --------------------------------- | ------------------------------ |
  | <img src='https://www.linkpicture.com/q/quiz-0.png'> | <img src='https://www.linkpicture.com/q/quiz-1.png'> |
  
- <img src='https://www.linkpicture.com/q/quiz-1.png'>
- <img src='https://www.linkpicture.com/q/quiz-2.png'>
- <img src='https://www.linkpicture.com/q/quiz-3.png'>
+ | When a user gets two questions correctly | When a user gets all three questions correctly |
+ | --------------------------------- | ------------------------------ |
+ | <img src='https://www.linkpicture.com/q/quiz-2.png'> | <img src='https://www.linkpicture.com/q/quiz-3.png'> |
+ 
  
 ## Technologies
 This application was developed using the following technologies
